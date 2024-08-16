@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @anurag1-dev
+- 👋 Hi, I’m Anurag
 - 👀 I’m interested in finding everyday solutions through software and software develoment in general
-- 🌱 I’m currently learning type-c subsystems
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning platform software services for USB4 and AI
+- 💞️ I’m looking to collaborate on machine learning applications
 - 📫 How to reach me ...
 
 <!---
