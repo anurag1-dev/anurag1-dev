@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Anurag
 - 👀 I’m interested in finding everyday solutions through software and software develoment in general
-- 🌱 I’m currently learning platform software services for USB4 and AI
-- 💞️ I’m looking to collaborate on machine learning applications
+- 💞️ I’m looking to collaborate on solving everyday engineering problems
 - 📫 How to reach me ...
 
 <!---
